@@ -1,0 +1,3 @@
+[submodule "framing"]
+	path = framing
+	url = git@github.com:juliamendelsohn/framing.git
